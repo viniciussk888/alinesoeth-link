@@ -73,7 +73,7 @@ const App = () => {
         )}
         {Button(
           "studioalinisoeth",
-          "https://www.instagram.com/studioalinisoeth",
+          "https://www.instagram.com/studio_alinisoeth/",
           <FaInstagram
             size={28}
             style={{
@@ -103,7 +103,7 @@ const App = () => {
         )}
         {Button(
           "Localização",
-          "https://maps.app.goo.gl/QrEMu6cfz84GDM3U7",
+          "https://maps.google.com/?q=-7.523201,-46.051262",
           <FaLocationArrow
             size={28}
             style={{
