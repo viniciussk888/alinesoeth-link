@@ -52,7 +52,7 @@ const App = () => {
         }}
       >
         {Button(
-          "Whatsapp gerald o estúdio",
+          "Whatsapp geral do estúdio",
           "https://api.whatsapp.com/send?phone=559981522048&text=Ol%C3%A1%20vim%20pelo%20Instagram%20,%20Gostaria%20de%20agendar%20um%20hor%C3%A1rio.%20%20Com%20Alini%20Soeth.",
           <FaWhatsapp
             size={28}
@@ -62,7 +62,7 @@ const App = () => {
           />
         )}
         {Button(
-          "Whatsapp Acessoria - Alini SoeTh",
+          "Whatsapp Acessoria - Alini Soeth",
           "https://api.whatsapp.com/send?phone=559981522048&text=Ol%C3%A1%20tudo%20bem,%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20micropigmenta%C3%A7%C3%A3o%20|%20Tattoo%20fine%20line%20|%20Remo%C3%A7%C3%A3o%20de%20Tattoo.%20Com%20Alini%20Soeth",
           <FaWhatsapp
             size={28}
